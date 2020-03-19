@@ -1,2 +1,0 @@
-# SpringHello
-Sample hello world

@@ -8,17 +8,18 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>springboot</groupId>
-	<artifactId>helloworld</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>helloworld</name>
-	<description>Hello world project for Spring Boot</description>
+	<groupId>com.example</groupId>
+	<artifactId>redirectnotice</artifactId>
+	<version>0.0.1</version>
+	<name>Redirect Notice</name>
+	<description>Redirect Notice Application</description>
 
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
+	
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
